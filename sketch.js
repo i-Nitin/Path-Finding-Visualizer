@@ -21,6 +21,8 @@ let destinationSelected
 
 function resetCanvas() {
     console.log(new Node(0, 0))
+
+    console.log("please save me.");
     // Initializing variables
     started = false
     algo = null
